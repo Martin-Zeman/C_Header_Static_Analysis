@@ -1,0 +1,3 @@
+Struct name;Size;Padding
+Test;40;12
+AlignTest;24;12

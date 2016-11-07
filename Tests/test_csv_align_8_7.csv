@@ -1,0 +1,4 @@
+Struct name;Size;Padding
+A1;24;12
+A2;24;14
+A3;48;26
